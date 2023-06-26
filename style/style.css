@@ -1,0 +1,221 @@
+@font-face {
+  font-family: Zilla Slab;
+  src: url(../assets/fonts/ZillaSlab-Light.woff);
+}
+@font-face {
+  font-family: conneqt;
+  src: url(../assets/fonts/ConneqtBold.woff);
+}
+
+body {
+  background-image: url("../assets/images/logo/bg2.svg");
+  background-size: cover;
+  background-position: center;
+  background-blend-mode: color white;
+}
+.header-div {
+  height: 1100px;
+}
+
+.logo-center {
+  margin-left: 40%;
+}
+.nav-font {
+  font-size: 16px;
+  letter-spacing: 0px;
+  line-height: 26px;
+  color: #25303b;
+  font-weight: 600;
+  font-family: Zilla Slab;
+  text-align: right;
+}
+.navbar-underline {
+  text-decoration: none;
+  position: relative;
+}
+
+.navbar-underline:after {
+  position: absolute;
+  content: "";
+  height: 2px;
+  bottom: 6px;
+  left: 9px;
+  right: 0;
+  width: 50%;
+  background: #ff6200;
+}
+.wolf-bacground {
+  filter: drop-shadow(3px 10px 23px rgba(37, 48, 59, 0.1));
+  background-color: transparent;
+  width: 1400px;
+  height: 701px;
+}
+.search-icon {
+  color: #ff6200;
+  font-size: 32px;
+  cursor: pointer;
+}
+.pos-alpha {
+  position: absolute;
+  top: 40%;
+  left: 45%;
+}
+.first-p-Alpha {
+  font-family: conneqt;
+  font-size: 82px;
+  line-height: 79px;
+  color: #151b21;
+  font-weight: bold;
+  text-align: right;
+  letter-spacing: 3px;
+  text-decoration: none;
+  position: relative;
+}
+.first-p-Alpha:after {
+  position: absolute;
+  content: "";
+  height: 2px;
+  top: 85px;
+  right: 0;
+  width: 50%;
+  background: black;
+  text-align: end;
+}
+.secound-p-Alpha {
+  width: 555px;
+  height: 20px;
+  font-size: 16px;
+  letter-spacing: 0px;
+  line-height: 26px;
+  color: #25303b;
+  font-weight: 600;
+  font-family: "Zilla Slab";
+  text-align: right;
+}
+.third-p-Alpha {
+  margin-top: -49px;
+  margin-left: 50px;
+  width: 374px;
+  font-size: 16px;
+  letter-spacing: 2px;
+  color: #ff6200;
+  font-weight: 600;
+  font-family: "Zilla Slab";
+}
+.img-readmore {
+  margin-top: -89px;
+  margin-left: -45px;
+  width: 131px;
+  height: 142px;
+}
+bg-start-tile {
+  width: 1400px;
+}
+
+.pos-start-tile {
+  top: 20%;
+  left: 40%;
+}
+.start-tile h1 {
+  margin-top: -360px;
+  margin-left: -42px;
+  font-size: 29px;
+  width: 800px;
+  color: #04cef4;
+  font-weight: bold;
+  font-family: "Conneqt";
+}
+.start-tile img {
+  margin-left: 410px;
+  margin-top: 0px;
+}
+.start-tile h3 {
+  margin-top: 83px;
+  margin-left: -38px;
+  width: 472px;
+  /* height: 944px; */
+  font-size: 25px;
+  line-height: 38px;
+  color: #151b21;
+  font-weight: bold;
+  font-family: "Conneqt";
+}
+.start-tile p {
+  margin-top: 44px;
+  margin-left: -38px;
+  width: 400px;
+  /* height: 946px; */
+  font-size: 18px;
+  letter-spacing: 0px;
+  line-height: 26px;
+  color: #25303b;
+  font-weight: 400;
+  font-family: "Zilla Slab";
+}
+.footer-bg {
+  width: 1182px;
+  height: 780px;
+  filter: drop-shadow(2px 20px 17.5px rgba(0, 0, 0, 0.07));
+  background-color: #ffffff;
+  margin-top: 400px;
+}
+
+.footer-startTeil2 {
+  margin-top: 250px;
+  margin-left: 500px;
+  width: 441px;
+  height: 228px;
+}
+.footer-2-img {
+  margin-top: -544px;
+  margin-left: 438px;
+}
+
+.footer-3-img {
+  margin-top: -544px;
+  margin-left: 20px;
+}
+
+.footer-h1 {
+  margin-top: -145px;
+  margin-left: 312px;
+  width: 501px;
+  height: 96px;
+  font-size: 40px;
+  line-height: 43px;
+  color: #04cef4;
+  font-weight: bold;
+  font-family: "Conneqt";
+}
+.footer-h3 {
+  margin-top: 20px;
+  margin-left: 323px;
+  width: 501px;
+  height: 36px;
+  font-size: 25px;
+  line-height: 38px;
+  color: #151b21;
+  font-weight: bold;
+  font-family: "Conneqt";
+}
+.footer-first-p {
+  margin-top: 20px;
+  margin-left: 320px;
+  width: 398px;
+  height: 102px;
+  font-size: 18px;
+  letter-spacing: 0px;
+  line-height: 23px;
+  color: #25303b;
+  font-weight: 400;
+  font-family: "Zilla Slab";
+}
+.footer-second-p {
+  margin-top: 90px;
+  margin-left: 820px;
+  font-size: 20px;
+  letter-spacing: 0px;
+  color: #ff6200;
+  font-weight: 600;
+  font-family: "Zilla Slab";
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g  transform="translate(0)">
+    <path id="Pfad_703" data-name="Pfad 703" d="M35.493,21.9l-.181,5.147-4.876-.09V44.563H23.3V27.045l-3.612.09L19.6,21.9h3.431c0-2.619-.632-8.4,2.167-10.475,3.973-2.98,11.016-.993,11.016-.993l-.9,5.418s-2.438-.451-2.89-.451a1.821,1.821,0,0,0-1.987,1.625V21.9h5.057Z" transform="translate(-3.293 -2.322)" fill="#afb6bd" fill-rule="evenodd"/>
+    <g id="Rechteck_307" data-name="Rechteck 307" transform="translate(0 0)" fill="transparent" stroke="#afb6bd" stroke-width="2">
+      <rect width="50" height="50" stroke="none"/>
+      <rect x="1" y="1" width="48" height="48" fill="transparent"/>
+    </g>
+  </g>
+</svg>

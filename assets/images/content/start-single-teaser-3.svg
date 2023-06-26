@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="675.22" height="423.132" viewBox="0 0 675.22 423.132">
+  <defs>
+    <filter id="Pfad_469" x="0" y="0" width="675.22" height="423.132" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.065" y1="0.205" x2="0.944" y2="0.637" gradientUnits="objectBoundingBox">
+      <stop offset="0.034" stop-color="#1e6ca0"/>
+      <stop offset="0.195" stop-color="#197fb0"/>
+      <stop offset="0.999" stop-color="#00dbff"/>
+    </linearGradient>
+  </defs>
+  <g id="Gruppe_1456" data-name="Gruppe 1456" transform="translate(-91.531 -2168.5)">
+    <g transform="matrix(1, 0, 0, 1, 91.53, 2168.5)" filter="url(#Pfad_469)">
+      <path id="Pfad_469-2" data-name="Pfad 469" d="M0,0H630.22V378.132H0Z" transform="translate(22.5 12.5)" fill="#fff"/>
+    </g>
+    <g id="Sabo_Logo_weiß" data-name="Sabo Logo_weiß" transform="translate(125.164 2096.231)">
+      <g id="Gruppe_229" data-name="Gruppe 229" transform="translate(96.601 197.59)">
+        <path id="Pfad_5" data-name="Pfad 5" d="M564.081,272.389c2.868-1.785,8.159-6.756,8.159-13.959,0-10.389-8.35-18.93-21.1-18.93H511.5v26.961H496.2l5.418,13.576H511.5v28.81h41.557c13.959,0,22.117-8.923,22.117-19.823C575.044,279.591,567.842,274.174,564.081,272.389Zm-36.394-19.313h19.7c5.227,0,7.9,3,7.9,6.756,0,3.7-2.55,6.629-7.9,6.629h-19.7Zm21.926,42.195H527.687v-15.3h21.926c5.863,0,8.8,3.442,8.8,7.649C558.409,291.893,555.222,295.271,549.613,295.271Z" transform="translate(-240.277 -212.183)" fill="#25303b"/>
+        <path id="Pfad_6" data-name="Pfad 6" d="M351.215,288.427c0,15.361-13.895,21.225-29.7,21.225a64.383,64.383,0,0,1-30.913-7.458l6.246-13.767c7.521,3.569,16.827,6.246,24.667,6.246,10.134,0,12.493-3.442,12.493-6.246,0-12.174-41.94-5.227-41.94-31.487,0-12.493,12.3-19.44,29.638-19.44a59.446,59.446,0,0,1,27.726,6.374l-5.864,13.066A55.965,55.965,0,0,0,321.64,251.9c-6.246,0-12.365,1.084-12.365,5.736C309.339,267.584,351.215,263.824,351.215,288.427Z" transform="translate(-166.592 -211.458)" fill="#25303b"/>
+        <path id="Pfad_7" data-name="Pfad 7" d="M702.391,272.749a37.1,37.1,0,0,1-74.191,0c0-20.205,15.934-36.65,37.1-36.65C686.457,236.036,702.391,252.481,702.391,272.749Zm-16.126,0c0-11.282-8.732-21.607-20.906-21.607s-20.906,10.326-20.906,21.607,8.732,21.607,20.906,21.607S686.266,284.031,686.266,272.749Z" transform="translate(-287.641 -210.95)" fill="#25303b"/>
+        <path id="Pfad_8" data-name="Pfad 8" d="M416.3,280.456l10.071-25.113,10.007,25.113H426.37l-5.609,14.022h21.289l5.736,14.4h16.189L436.313,239.6H416.49L388.7,308.884h16.253l5.8-14.4Z" transform="translate(-201.741 -212.219)" fill="#25303b"/>
+        <path id="Pfad_9" data-name="Pfad 9" d="M195.994,248.08l20.078-50.38H193.19l-7.521,18.8A48.92,48.92,0,0,0,146.6,197.7c-28.109,0-49.4,22.077-49.4,49.161a49.618,49.618,0,0,0,77.251,40.881v6.739h21.225V252.123A39.954,39.954,0,0,0,195.994,248.08Zm-49.4,27.789c-16.253,0-27.854-13.8-27.854-28.944s11.6-28.944,27.854-28.944,27.854,13.8,27.854,28.944S162.85,275.869,146.6,275.869Z" transform="translate(-97.2 -197.7)" fill="url(#linear-gradient)"/>
+      </g>
+      <g id="Gruppe_162" data-name="Gruppe 162" transform="translate(102.196 313.602)">
+        <path id="Pfad_260" data-name="Pfad 260" d="M120.658,395.281h-3.64l-1.277-3.257h-7.024l-1.277,3.257H103.8l6.258-15.581h4.47Zm-6.194-6.385-2.235-5.619-2.3,5.619Z" transform="translate(-103.8 -379.253)" fill="#afb6bd"/>
+        <path id="Pfad_261" data-name="Pfad 261" d="M154.6,391.9v3.384H143.3V379.7h3.64v12.2Z" transform="translate(-118.077 -379.253)" fill="#afb6bd"/>
+        <path id="Pfad_262" data-name="Pfad 262" d="M188.321,385.575c0,3.193-2.235,5.811-6.386,5.811h-3.9v3.9H174.4V379.7H182C186.086,379.764,188.321,382.382,188.321,385.575Zm-3.7,0a2.524,2.524,0,0,0-2.746-2.49h-3.9v4.981h3.9A2.524,2.524,0,0,0,184.617,385.575Z" transform="translate(-129.317 -379.253)" fill="#afb6bd"/>
+        <path id="Pfad_263" data-name="Pfad 263" d="M224.623,379.8v15.581h-3.64v-6.066H213.64v6.066H210V379.8h3.64v6.066h7.344V379.8Z" transform="translate(-142.191 -379.289)" fill="#afb6bd"/>
+        <path id="Pfad_264" data-name="Pfad 264" d="M262.922,395.281h-3.64l-1.277-3.257h-7.024l-1.277,3.257H246l6.258-15.581h4.47Zm-6.194-6.385-2.235-5.619-2.3,5.619Z" transform="translate(-155.205 -379.253)" fill="#afb6bd"/>
+        <path id="Pfad_265" data-name="Pfad 265" d="M307.9,395.281V379.7h3.64v15.581Z" transform="translate(-177.582 -379.253)" fill="#afb6bd"/>
+        <path id="Pfad_266" data-name="Pfad 266" d="M344.1,379.8v15.581h-2.746l-8.11-9.387v9.387H329.6V379.8h2.81l8.11,9.387V379.8Z" transform="translate(-185.427 -379.289)" fill="#afb6bd"/>
+        <path id="Pfad_267" data-name="Pfad 267" d="M404.258,395.281h-3.64l-1.277-3.257h-7.024l-1.277,3.257H387.4l6.258-15.581h4.47Zm-6.194-6.385-2.235-5.619-2.3,5.619Z" transform="translate(-206.321 -379.253)" fill="#afb6bd"/>
+        <path id="Pfad_268" data-name="Pfad 268" d="M440.67,379.7V388c0,4.534-2.874,7.727-7.535,7.727S425.6,392.535,425.6,388v-8.3h3.64v8.493a3.9,3.9,0,1,0,7.79,0V379.7Z" transform="translate(-220.131 -379.253)" fill="#afb6bd"/>
+        <path id="Pfad_269" data-name="Pfad 269" d="M476.812,379.8v3.384h-5.236v12.2h-3.64v-12.2H462.7V379.8Z" transform="translate(-233.542 -379.289)" fill="#afb6bd"/>
+        <path id="Pfad_270" data-name="Pfad 270" d="M513.3,387.238A8.3,8.3,0,1,1,505,379,8.191,8.191,0,0,1,513.3,387.238Zm-3.64,0a4.727,4.727,0,1,0-4.725,4.853A4.782,4.782,0,0,0,509.663,387.238Z" transform="translate(-245.834 -379)" fill="#afb6bd"/>
+        <path id="Pfad_271" data-name="Pfad 271" d="M554.624,379.8v15.581h-3.64v-9.259l-3.959,5.939h-2.362l-3.959-5.939v9.259H537V379.8h3.32l5.492,8.174L551.3,379.8Z" transform="translate(-260.402 -379.289)" fill="#afb6bd"/>
+        <path id="Pfad_272" data-name="Pfad 272" d="M594.658,395.281h-3.64l-1.277-3.257h-7.024l-1.277,3.257H577.8l6.258-15.581h4.47Zm-6.194-6.385-2.235-5.619-2.3,5.619Z" transform="translate(-275.151 -379.253)" fill="#afb6bd"/>
+        <path id="Pfad_273" data-name="Pfad 273" d="M627.212,379.8v3.384h-5.236v12.2h-3.64v-12.2H613.1V379.8Z" transform="translate(-287.918 -379.289)" fill="#afb6bd"/>
+        <path id="Pfad_274" data-name="Pfad 274" d="M648.9,395.281V379.7h3.64v15.581Z" transform="translate(-300.857 -379.253)" fill="#afb6bd"/>
+        <path id="Pfad_275" data-name="Pfad 275" d="M685.7,387.238A8.3,8.3,0,1,1,677.4,379,8.191,8.191,0,0,1,685.7,387.238Zm-3.64,0a4.727,4.727,0,1,0-4.725,4.853A4.782,4.782,0,0,0,682.063,387.238Z" transform="translate(-308.158 -379)" fill="#afb6bd"/>
+        <path id="Pfad_276" data-name="Pfad 276" d="M723.96,379.8v15.581h-2.81l-8.11-9.387v9.387H709.4V379.8h2.81l8.109,9.387V379.8Z" transform="translate(-322.724 -379.289)" fill="#afb6bd"/>
+      </g>
+    </g>
+  </g>
+</svg>

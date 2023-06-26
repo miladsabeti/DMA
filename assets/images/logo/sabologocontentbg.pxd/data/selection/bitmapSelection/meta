@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backingScale</key>
+	<real>1</real>
+	<key>bitmapFilename</key>
+	<string>bitmap</string>
+	<key>mutationIdentifier</key>
+	<string>8E724580-A090-4D86-9F8B-B8CE4BD37866</string>
+	<key>pathFilename</key>
+	<string>path</string>
+	<key>size</key>
+	<data>
+	NC10UHpTVFAQAAAAQKrSAAAAAABAo24AAAAAAA==
+	</data>
+	<key>version</key>
+	<integer>1</integer>
+</dict>
+</plist>

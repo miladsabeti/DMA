@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3432.908" height="2486.31" viewBox="0 0 3432.908 2486.31">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.181" y1="1" x2="0.336" y2="0.715" gradientUnits="objectBoundingBox">
+      <stop offset="0.03" stop-color="#1e6ca0"/>
+      <stop offset="0.2" stop-color="#187fb0"/>
+      <stop offset="1" stop-color="#00dbff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.39" y1="0.26" x2="0.541" y2="-0.02" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Alpha-Grafik-HG" transform="translate(0 47)" style="isolation: isolate">
+    <g id="b" transform="translate(0 -47)">
+      <g id="c">
+        <path id="Pfad_114" data-name="Pfad 114" d="M2440.01,811.878,2765.865,0H2395.012L2273,303.98C2128.879,119.92,1902.81,1.559,1639.664,1.559,1183.731,1.559,839.1,356.9,839.1,793.579s344.632,794.129,800.565,794.129c170.2,0,324.865-49.82,451.9-134.974v108.68h344.173v-682.3q3.493-33.253,4.272-67.239ZM1639.665,1260.2C1376.373,1260.2,1188,1037.58,1188,793.579s188.369-466.642,451.661-466.642,451.661,222.622,451.661,466.642S1902.975,1260.2,1639.665,1260.2Z" transform="translate(667.044)" fill="url(#linear-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+        <path id="Pfad_115" data-name="Pfad 115" d="M1561.492,1332.061l317.82-791.871h-361.72l-119,296.49C1258.016,657.155,1037.51,541.711,780.852,541.711,336.144,541.711,0,888.291,0,1314.215s336.144,774.574,780.852,774.574c165.994,0,316.865-48.6,440.764-131.646v106H1557.3v-665.5q3.4-32.421,4.174-65.584Zm-780.64,437.279c-256.8,0-440.534-217.128-440.534-455.144S524.053,859.036,780.852,859.036s440.534,217.127,440.534,455.161S1037.67,1769.341,780.852,1769.341Z" transform="translate(0 397.521)" fill="url(#linear-gradient-2)" style="mix-blend-mode: multiply;isolation: isolate"/>
+      </g>
+    </g>
+  </g>
+</svg>
